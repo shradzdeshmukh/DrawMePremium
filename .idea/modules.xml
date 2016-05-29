@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DrawMePremium.iml" filepath="$PROJECT_DIR$/DrawMePremium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawMePremium/drawMePremium.iml" filepath="$PROJECT_DIR$/drawMePremium/drawMePremium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/drawerLibrary/drawerLibrary.iml" filepath="$PROJECT_DIR$/drawerLibrary/drawerLibrary.iml" />
+    </modules>
+  </component>
+</project>

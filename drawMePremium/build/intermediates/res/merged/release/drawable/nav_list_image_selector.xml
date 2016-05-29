@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+<item android:state_activated="false"></item>
+<item android:state_pressed="true"></item>
+</selector>
+<!-- From: file:/C:/Users/hp/AndroidStudioProjects/DrawMePremium/drawMePremium/src/main/res/drawable/nav_list_image_selector.xml -->

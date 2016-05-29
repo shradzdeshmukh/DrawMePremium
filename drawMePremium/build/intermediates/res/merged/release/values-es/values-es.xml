@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/hp/AndroidStudioProjects/DrawMePremium/drawMePremium/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string-array name="tools_grid_titles">
+        <item>Cepillo</item>
+        <item>Goma de borrar</item>
+        <item>Cuadrícula</item>
+        <item>Color</item>
+        <item>Guardar</item>
+        <item>Claro</item>
+        <item>Cuota</item>
+        <item>Deshacer</item>
+         <item>Fondo</item>
+    </string-array>
+    <!-- From: file:/C:/Users/hp/AndroidStudioProjects/DrawMePremium/drawMePremium/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-es/values-es.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <!-- From: file:/C:/Users/hp/AndroidStudioProjects/DrawMePremium/drawMePremium/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Pluma y libreta</string>
+    <string name="brush_size_text">Tamaño del pincel</string>
+    <string name="error">Error</string>
+    <string name="grid_size_text">Espaciado de cuadrícula</string>
+    <string name="pick_color_title">Elija su color</string>
+    <string name="premium_btn">actualización</string>
+    <string name="premium_msg">Por favor actualice a la prima para utilizar esta función</string>
+    <string name="premium_title">Actualizar a la prima</string>
+    <string name="save_success">Su dibujo se ha guardado</string>
+    <string name="saved">Guardado su dibujo</string>
+</resources>

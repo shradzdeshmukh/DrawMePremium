@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tools_grid_titles">
+        <item>ブラシ</item>
+        <item>消しゴム</item>
+        <item>グリッド</item>
+        <item>カラー</item>
+        <item>保存</item>
+        <item>クリア</item>
+        <item>シェア</item>
+        <item>取り消します</item>
+         <item>バックグラウンド</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string name="app_name">ペンとメモ帳</string>
+    <string name="brush_size_text">ブラシのサイズ</string>
+    <string name="error">エラー</string>
+    <string name="grid_size_text">格子間隔</string>
+    <string name="pick_color_title">あなたの色を選択</string>
+    <string name="premium_btn">アップグレード</string>
+    <string name="premium_msg">親切にこの機能を使用するにはプレミアムにアップグレード</string>
+    <string name="premium_title">プレミアムにアップグレード</string>
+    <string name="save_success">図面が保存されています</string>
+    <string name="saved">図面保存</string>
+</resources>

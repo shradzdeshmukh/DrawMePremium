@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\pre-dexed\debug\classes-c2d62bc1c023217e136ee9028f4f83fc70d1e952.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-911a1713bd8b1e5e3ff8101902202e61433f9fe5.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-6a83fbe523eeb56e24bb75f73bed61fdcf55cc99.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\Desktop\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-718a39b9943cc4f66fc620429915ea77703d7a4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\pre-dexed\debug\classes-9203b2817fb5b679f625e56aa8f7f5fa1caa5a6c.jar" />
+    </item>
+    <item
+        jar="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\exploded-aar\DrawMePremium\drawerLibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="891a38cbb808574bf32f743a0a4ab4a2d753effd">
+        <dex dex="C:\Users\hp\AndroidStudioProjects\DrawMePremium\drawMePremium\build\intermediates\pre-dexed\debug\classes-35a34fca38a0da630913b05303c08b8bc87dc6f1.jar" />
+    </item>
+
+</items>
